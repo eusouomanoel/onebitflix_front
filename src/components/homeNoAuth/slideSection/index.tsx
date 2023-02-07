@@ -18,7 +18,7 @@ const SlideSection = function ({newestCourses}:props){
                         Se cadastre agora para acessar!
                     </Button>
                 </Link>
-            </Container>/
+            </Container>
         </>
     );
 };
