@@ -52,7 +52,7 @@ const Register = function () {
     return(
         <>
             <Head>
-                <title>Onebitlix - Registro</title>
+                <title>Onebitflix - Registro</title>
                 <link rel="shortcut icon" href="/favicon.svg" type="image/x-icon" />
                 <script src="https://jsuites.net/v4/jsuites.js"></script>
             </Head>
